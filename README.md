@@ -1,5 +1,4 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tech-stack-tools/django-framework/pulls)
-[![Django CI](https://github.com/tech-stack-tools/django-framework/actions/workflows/main.yaml/badge.svg?branch=main)](https://github.com/tech-stack-tools/django-framework/actions/workflows/main.yaml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tech-stack-tools/rickymaloy/pulls)
 
 # Django Framework
 
