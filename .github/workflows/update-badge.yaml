@@ -1,0 +1,25 @@
+name: Update GitHub Stats Badge
+
+on:
+  push:
+    branches:
+      - main # Adjust if your default branch is different
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update badge
+        run: node update-badge.js # Replace with your script or command
