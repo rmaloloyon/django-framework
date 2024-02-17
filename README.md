@@ -1,4 +1,5 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tech-stack-tools/rickymaloy/pulls)
+[![Update GitHub Stats Badge](https://github.com/rmaloloyon/rickymaloy/actions/workflows/update-badge.yaml/badge.svg?branch=main)](https://github.com/rmaloloyon/rickymaloy/actions/workflows/update-badge.yaml)
 
 # Django Framework
 
