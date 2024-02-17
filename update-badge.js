@@ -1,5 +1,5 @@
 // Example: Fetch number of followers from GitHub API
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 async function getFollowers(username) {
   const response = await fetch(`https://api.github.com/users/${username}`);
